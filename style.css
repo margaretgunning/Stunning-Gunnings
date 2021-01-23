@@ -1,0 +1,259 @@
+
+
+a:link {color: white;
+	
+}
+
+a:visited {color: white;
+}
+
+
+.happybirthdaymam {width:100%;
+		background-color: pink;
+		color:black;
+		height: 200%;
+		font-size: 30px;
+		text-align: center; 
+		float: left; 
+}		
+
+.head  {background-color:white;
+		width: 100%;
+		text-align: center;
+		color: black;
+		font-size: 40px;
+}
+
+
+
+.fam  {background-color:black;
+		width: 100%;
+		text-align: center;
+		color: pink;
+		
+}
+
+.happiertimes  {background-color:black;
+		width: 100%;
+		height: 150px;
+		text-align: center;
+		color: pink;
+		font-size: 30px;
+}
+
+.row1  {background-color:black;
+		color: white; 
+		width: 94%;
+		padding: 3%;	
+		
+}
+
+.row2  {background-color:black;
+		color: white; 
+		width: 94%;
+		padding: 3%;	
+		
+}
+
+.row3  {background-color:black;
+		color: white; 
+		width: 94%;
+		padding: 3%;	
+		
+}
+
+.row4  {background-color:black;
+		color: white; 
+		width: 94%;
+		padding: 3%;	
+		
+}
+
+.half  {background-color:black;
+		color: white; 
+		width: 94%;
+		padding: 3%;	
+		
+}
+
+.row5  {background-color:black;
+		color: white; 
+		width: 94%;
+		padding: 3%;	
+		text-align: center;
+		
+}
+
+.last  {background-color:black;
+		color: white; 
+		width: 94%;
+		padding: 3%;	
+		text-align: center;
+		
+}
+
+.names  {background-color:pink;
+		color: black; 
+		width: 100%;	 	
+		text-align: center;
+}
+
+.container   {min-width: 100%;
+			margin: auto;
+			display: block;			
+}
+
+
+
+
+@media only screen and (max-width: 600px) {
+
+.container { height: 100%;
+			width: 100%;
+}
+  
+	
+	 .fam { 
+			  
+      display: none;
+
+    }
+	
+	 .happiertimes { 
+			  
+      width: 100%;
+	 display: block;
+	 text-align: center;
+
+    }
+	
+		 .row1 { 
+		
+	text-align: center;
+      width: 100%;
+	 display: block;
+	 padding: none;
+
+    }
+	
+		 .row2 { 
+		
+	text-align: center;
+      width: 100%;
+	 display: block;
+
+    }
+	
+		 .row3 { 
+		
+	text-align: center;
+      width: 100%;
+	 display: block;
+
+    }
+	
+		 .row4 { 
+		
+	text-align: center;
+      width: 100%;
+	 display: block;
+
+    }
+	
+		 .row5 { 
+		
+	
+	 display: none;
+
+    }
+	
+		 .half { 
+		
+	text-align: center;
+      width: 100%;
+	 display: block;
+
+    }
+	
+		 .last { 
+		
+	text-align: center;
+      width: auto;
+	 display: block;
+
+    }
+	
+	
+
+.popup  { 
+		float: none;
+      width: 100%;
+	 display: block;
+	 background-color: white;
+
+    }
+	
+	.specials  { 
+	display: none;
+
+    }
+	
+	.box3  { 
+
+      width: 100%;
+	 
+    }
+	
+	.logo
+	{ 
+
+      font-size: 30px;
+	  width: 30%
+	 
+    }
+	
+	.nav1
+	{ 
+
+      font-size: 25px;
+	  width: 10%
+	 
+    }
+	
+	.nav2
+	{ 
+
+      font-size: 25px;
+	  width: 10%
+	 
+    }
+	
+	.dinein 
+	{ 
+
+      display: none;
+	 
+    }
+	
+	.aboutus {width: 15%;
+		font-size: 20px;
+	}
+	
+	.contact 
+	{ 
+
+      width: 15%;
+	  font-size: 20px;
+	 
+    }
+	
+	.careers
+	{ 
+
+      width: 15%;
+	  font-size: 20px;
+	 
+    }
+
+
+
